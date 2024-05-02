@@ -1,4 +1,4 @@
-# Automated Prediction Algorithm
+# S&P Prediction Algorithm
 
 
 Start by using Random Forest Classifier (best for non-linear data relationships) to training a bunch of individual decision trees with randomized parameters and than averaging the results from those decision trees.
